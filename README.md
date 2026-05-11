@@ -81,8 +81,8 @@ cv2.VideoCapture("your_video.mp4")
 
 ## 🙋 Author
 
-**Mayank Aggarwal**  
-GitHub: [@Mayank-01x](https://github.com/Mayank-01x/Object-Detection)
+**Manya Aggarwal**  
+GitHub: [@manya-02]((https://github.com/manya-02/real-time-object-detection-yolov4))
 
 ---
 
