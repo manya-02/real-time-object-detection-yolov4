@@ -1,4 +1,6 @@
+# Ignore large YOLO weight file
 yolov4.weights
-*.pyc
+
+# Ignore Python cache
 __pycache__/
-.env
+*.pyc
